@@ -1,0 +1,22 @@
+CSharp~v6 Metrics 1.0
+<C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalysisReports\CSharpMetricReport
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\IStaticAnalysisTool.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\Program.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\StaticAnalysis.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\Configuration\Configuration.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\Configuration\ToolMeta.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\Configuration\ToolsConfiguration.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\PluginWrappers\CSharpMetric\CSharpMetrics.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\PluginWrappers\FxCop\FxCop.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\PluginWrappers\FxCop\ParsingFxCop.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\PluginWrappers\NDeped\Ndepend.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\PluginWrappers\NDeped\ParsingXmlNDepend.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\StaticAnalyzer\Properties\AssemblyInfo.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\Test\TestClass.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\Test\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\Test\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\Test\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs

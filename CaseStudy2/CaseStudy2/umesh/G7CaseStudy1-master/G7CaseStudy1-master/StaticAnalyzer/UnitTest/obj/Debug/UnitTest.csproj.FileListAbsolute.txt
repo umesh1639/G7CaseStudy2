@@ -1,0 +1,16 @@
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\ConfigurationLib.dll
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\ConfigurationLib.pdb
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\StaticAnalysisContractsLib.dll
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\StaticAnalyzer.exe
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\UtilityLib.dll
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\StaticAnalysisContractsLib.pdb
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\StaticAnalyzer.pdb
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\UtilityLib.pdb
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\ToolsMetaLib.dll
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UnitTest\bin\Debug\ToolsMetaLib.pdb

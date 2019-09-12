@@ -1,0 +1,6 @@
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.IOC\bin\Debug\ProductManagementSystem.IOC.dll
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.IOC\bin\Debug\ProductManagementSystem.IOC.pdb
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.IOC\obj\Debug\ProductManagementSystem.IOC.csproj.CoreCompileInputs.cache
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.IOC\obj\Debug\ProductManagementSystem.IOC.dll
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.IOC\obj\Debug\ProductManagementSystem.IOC.pdb
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.IOC\obj\Debug\ProductManagementSystem.IOC.csprojAssemblyReference.cache

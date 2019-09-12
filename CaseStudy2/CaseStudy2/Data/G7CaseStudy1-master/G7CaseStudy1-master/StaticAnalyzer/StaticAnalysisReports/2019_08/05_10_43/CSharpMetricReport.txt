@@ -1,0 +1,1764 @@
+                                          CSharp Software Metrics Summary
+                                          Semantic Designs, Inc.
+                                          http://www.semdesigns.com
+
+Summary:
+    878 lines of source.
+    733 lines of CSharp code.
+    49 lines of comment.
+    13 files.
+    13 types.
+    54 methods.
+    Aggregate cyclomatic complexity: 103
+    Mean cyclomatic complexity: 1.91
+    Median cyclomatic complexity: 1.00
+    Conditional statements: 51
+    Decision density: 2.08
+    Max loop depth: 2
+    Max loop depth position: <file C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/PluginWrappers/CSharpMetric/CSharpMetrics.cs>::%global_declaration_space%.StaticAnalyzer.CSharpMetrics @ line 104
+    Max conditional nesting depth: 5
+    Max conditional nesting depth position: <file C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/PluginWrappers/NDeped/ParsingXmlNDepend.cs>::%global_declaration_space%.StaticAnalyzer.ParsingXmlNDepend @ line 23
+    Halstead unique operators: 192
+    Halstead unique operands: 723
+    Halstead operator occurrence: 1542
+    Halstead operand occurrence: 1561
+    Halstead program length: 3103
+    Halstead program vocabulary: 915
+    Halstead program volume: 30526.16
+    Halstead program difficulty: 207.27
+    Halstead program effort: 6327148.21
+    Halstead bug prediction: 10.18
+    SEI maintainability index: 113.36
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/Configuration/Configuration.cs
+            52 lines of source.
+            30 lines of CSharp code.
+            8 lines of comment.
+            1 types.
+            3 methods.
+            Aggregate cyclomatic complexity: 4
+            Mean cyclomatic complexity: 1.33
+            Median cyclomatic complexity: 1.00
+            Conditional Statements: 1
+            Decision density: 0.18
+            Max loop depth: 1
+            Max loop depth position: @ line 30
+            Max conditional nesting depth: 1
+            Max conditional nesting depth position: @ line 30
+            Halstead unique operators: 13
+            Halstead unique operands: 39
+            Halstead operator occurrence: 60
+            Halstead operand occurrence: 68
+            Halstead program length: 128
+            Halstead program vocabulary: 52
+            Halstead program volume: 729.66
+            Halstead program difficulty: 11.33
+            Halstead program effort: 8269.44
+            Halstead bug prediction: 0.24
+            SEI maintainability index: 141.69
+
+            CLASS Configuration @ line 10
+                22 lines of CSharp code.
+                8 lines of comment.
+                3 methods.
+                Aggregate cyclomatic complexity: 4
+                Mean cyclomatic complexity: 1.33
+                Median cyclomatic complexity: 1.00
+                Conditional statements: 1
+                Decision density: 0.18
+                Max loop depth: 1
+                Max loop depth position: @ line 30
+                Max conditional nesting depth: 1
+                Max conditional nesting depth position: @ line 30
+                Halstead unique operators: 11
+                Halstead unique operands: 22
+                Halstead operator occurrence: 38
+                Halstead operand occurrence: 45
+                Halstead program length: 83
+                Halstead program vocabulary: 33
+                Halstead program volume: 418.68
+                Halstead program difficulty: 11.25
+                Halstead program effort: 4710.20
+                Halstead bug prediction: 0.14
+                SEI maintainability index: 146.72
+
+                METHOD Configurationconstructor @ line 18
+                    4 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.25
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 4
+                    Halstead unique operands: 5
+                    Halstead operator occurrence: 4
+                    Halstead operand occurrence: 6
+                    Halstead program length: 10
+                    Halstead program vocabulary: 9
+                    Halstead program volume: 31.70
+                    Halstead program difficulty: 2.40
+                    Halstead program effort: 76.08
+                    Halstead bug prediction: 0.01
+                    SEI maintainability index: 130.34
+                METHOD Configurations @ line 15
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 2
+                    Halstead unique operands: 5
+                    Halstead operator occurrence: 2
+                    Halstead operand occurrence: 6
+                    Halstead program length: 8
+                    Halstead program vocabulary: 7
+                    Halstead program volume: 22.46
+                    Halstead program difficulty: 1.20
+                    Halstead program effort: 26.95
+                    Halstead bug prediction: 0.01
+                    SEI maintainability index: 154.59
+                METHOD LoadConfiguration @ line 24
+                    11 lines of CSharp code.
+                    6 lines of comment.
+                    Cyclomatic complexity: 2
+                    Conditional statements: 1
+                    Decision density: 0.18
+                    Max loop depth: 1
+                    Max loop depth position:  @ line 30
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 30
+                    Halstead unique operators: 8
+                    Halstead unique operands: 14
+                    Halstead operator occurrence: 23
+                    Halstead operand occurrence: 19
+                    Halstead program length: 42
+                    Halstead program vocabulary: 22
+                    Halstead program volume: 187.30
+                    Halstead program difficulty: 5.43
+                    Halstead program effort: 1016.75
+                    Halstead bug prediction: 0.06
+                    SEI maintainability index: 149.10
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/Configuration/ToolMeta.cs
+            36 lines of source.
+            30 lines of CSharp code.
+            0 lines of comment.
+            2 types.
+            7 methods.
+            Aggregate cyclomatic complexity: 7
+            Mean cyclomatic complexity: 1.00
+            Median cyclomatic complexity: 1.00
+            Conditional Statements: 0
+            Decision density: 0.45
+            Max loop depth: 0
+            Max conditional nesting depth: 0
+            Halstead unique operators: 10
+            Halstead unique operands: 29
+            Halstead operator occurrence: 55
+            Halstead operand occurrence: 62
+            Halstead program length: 117
+            Halstead program vocabulary: 39
+            Halstead program volume: 618.39
+            Halstead program difficulty: 10.69
+            Halstead program effort: 6610.40
+            Halstead bug prediction: 0.21
+            SEI maintainability index: 129.17
+
+            CLASS ToolMeta @ line 9
+                23 lines of CSharp code.
+                0 lines of comment.
+                4 methods.
+                Aggregate cyclomatic complexity: 4
+                Mean cyclomatic complexity: 1.00
+                Median cyclomatic complexity: 1.00
+                Conditional statements: 0
+                Decision density: 0.17
+                Max loop depth: 0
+                Max conditional nesting depth: 0
+                Halstead unique operators: 7
+                Halstead unique operands: 10
+                Halstead operator occurrence: 37
+                Halstead operand occurrence: 44
+                Halstead program length: 81
+                Halstead program vocabulary: 17
+                Halstead program volume: 331.08
+                Halstead program difficulty: 15.40
+                Halstead program effort: 5098.70
+                Halstead bug prediction: 0.11
+                SEI maintainability index: 124.34
+
+                METHOD InstallationPath @ line 12
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 2
+                    Halstead unique operands: 2
+                    Halstead operator occurrence: 3
+                    Halstead operand occurrence: 3
+                    Halstead program length: 6
+                    Halstead program vocabulary: 4
+                    Halstead program volume: 12.00
+                    Halstead program difficulty: 1.50
+                    Halstead program effort: 18.00
+                    Halstead bug prediction: 0.00
+                    SEI maintainability index: 157.85
+                METHOD Name @ line 11
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 2
+                    Halstead unique operands: 2
+                    Halstead operator occurrence: 3
+                    Halstead operand occurrence: 3
+                    Halstead program length: 6
+                    Halstead program vocabulary: 4
+                    Halstead program volume: 12.00
+                    Halstead program difficulty: 1.50
+                    Halstead program effort: 18.00
+                    Halstead bug prediction: 0.00
+                    SEI maintainability index: 157.85
+                METHOD ToolMetaconstructor @ line 15
+                    6 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.17
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 5
+                    Halstead unique operands: 10
+                    Halstead operator occurrence: 10
+                    Halstead operand occurrence: 14
+                    Halstead program length: 24
+                    Halstead program vocabulary: 15
+                    Halstead program volume: 93.77
+                    Halstead program difficulty: 3.50
+                    Halstead program effort: 328.18
+                    Halstead bug prediction: 0.03
+                    SEI maintainability index: 118.13
+                METHOD Wrapper @ line 13
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 2
+                    Halstead unique operands: 2
+                    Halstead operator occurrence: 3
+                    Halstead operand occurrence: 3
+                    Halstead program length: 6
+                    Halstead program vocabulary: 4
+                    Halstead program volume: 12.00
+                    Halstead program difficulty: 1.50
+                    Halstead program effort: 18.00
+                    Halstead bug prediction: 0.00
+                    SEI maintainability index: 157.85
+
+            CLASS WrapperMeta @ line 22
+                11 lines of CSharp code.
+                0 lines of comment.
+                3 methods.
+                Aggregate cyclomatic complexity: 3
+                Mean cyclomatic complexity: 1.00
+                Median cyclomatic complexity: 1.00
+                Conditional statements: 0
+                Decision density: 0.27
+                Max loop depth: 0
+                Max conditional nesting depth: 0
+                Halstead unique operators: 7
+                Halstead unique operands: 8
+                Halstead operator occurrence: 16
+                Halstead operand occurrence: 19
+                Halstead program length: 35
+                Halstead program vocabulary: 15
+                Halstead program volume: 136.74
+                Halstead program difficulty: 8.31
+                Halstead program effort: 1136.66
+                Halstead bug prediction: 0.05
+                SEI maintainability index: 131.79
+
+                METHOD AssemblyPath @ line 25
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 2
+                    Halstead unique operands: 2
+                    Halstead operator occurrence: 3
+                    Halstead operand occurrence: 3
+                    Halstead program length: 6
+                    Halstead program vocabulary: 4
+                    Halstead program volume: 12.00
+                    Halstead program difficulty: 1.50
+                    Halstead program effort: 18.00
+                    Halstead bug prediction: 0.00
+                    SEI maintainability index: 157.85
+                METHOD ClassName @ line 24
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 2
+                    Halstead unique operands: 2
+                    Halstead operator occurrence: 3
+                    Halstead operand occurrence: 3
+                    Halstead program length: 6
+                    Halstead program vocabulary: 4
+                    Halstead program volume: 12.00
+                    Halstead program difficulty: 1.50
+                    Halstead program effort: 18.00
+                    Halstead bug prediction: 0.00
+                    SEI maintainability index: 157.85
+                METHOD WrapperMetaconstructor @ line 27
+                    5 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.20
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 5
+                    Halstead unique operands: 8
+                    Halstead operator occurrence: 8
+                    Halstead operand occurrence: 11
+                    Halstead program length: 19
+                    Halstead program vocabulary: 13
+                    Halstead program volume: 70.31
+                    Halstead program difficulty: 3.44
+                    Halstead program effort: 241.68
+                    Halstead bug prediction: 0.02
+                    SEI maintainability index: 122.58
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/Configuration/ToolsConfiguration.cs
+            37 lines of source.
+            32 lines of CSharp code.
+            3 lines of comment.
+            1 types.
+            2 methods.
+            Aggregate cyclomatic complexity: 3
+            Mean cyclomatic complexity: 1.50
+            Median cyclomatic complexity: 1.50
+            Conditional Statements: 1
+            Decision density: 0.13
+            Max loop depth: 1
+            Max loop depth position: @ line 21
+            Max conditional nesting depth: 1
+            Max conditional nesting depth position: @ line 21
+            Halstead unique operators: 13
+            Halstead unique operands: 40
+            Halstead operator occurrence: 64
+            Halstead operand occurrence: 69
+            Halstead program length: 133
+            Halstead program vocabulary: 53
+            Halstead program volume: 761.81
+            Halstead program difficulty: 11.21
+            Halstead program effort: 8541.83
+            Halstead bug prediction: 0.25
+            SEI maintainability index: 122.86
+
+            CLASS ToolsConfiguration @ line 10
+                24 lines of CSharp code.
+                3 lines of comment.
+                2 methods.
+                Aggregate cyclomatic complexity: 3
+                Mean cyclomatic complexity: 1.50
+                Median cyclomatic complexity: 1.50
+                Conditional statements: 1
+                Decision density: 0.13
+                Max loop depth: 1
+                Max loop depth position: @ line 21
+                Max conditional nesting depth: 1
+                Max conditional nesting depth position: @ line 21
+                Halstead unique operators: 11
+                Halstead unique operands: 23
+                Halstead operator occurrence: 42
+                Halstead operand occurrence: 46
+                Halstead program length: 88
+                Halstead program vocabulary: 34
+                Halstead program volume: 447.70
+                Halstead program difficulty: 11.00
+                Halstead program effort: 4924.66
+                Halstead bug prediction: 0.15
+                SEI maintainability index: 127.52
+
+                METHOD Tools @ line 15
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 1
+                    Halstead unique operands: 4
+                    Halstead operator occurrence: 2
+                    Halstead operand occurrence: 5
+                    Halstead program length: 7
+                    Halstead program vocabulary: 5
+                    Halstead program volume: 16.25
+                    Halstead program difficulty: 0.63
+                    Halstead program effort: 10.16
+                    Halstead bug prediction: 0.01
+                    SEI maintainability index: 156.27
+                METHOD ToolsConfigurationconstructor @ line 16
+                    17 lines of CSharp code.
+                    3 lines of comment.
+                    Cyclomatic complexity: 2
+                    Conditional statements: 1
+                    Decision density: 0.12
+                    Max loop depth: 1
+                    Max loop depth position:  @ line 21
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 21
+                    Halstead unique operators: 9
+                    Halstead unique operands: 17
+                    Halstead operator occurrence: 31
+                    Halstead operand occurrence: 30
+                    Halstead program length: 61
+                    Halstead program vocabulary: 26
+                    Halstead program volume: 286.73
+                    Halstead program difficulty: 7.94
+                    Halstead program effort: 2276.95
+                    Halstead bug prediction: 0.10
+                    SEI maintainability index: 125.98
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/IStaticAnalysisTool.cs
+            15 lines of source.
+            13 lines of CSharp code.
+            0 lines of comment.
+            1 types.
+            0 methods.
+            Aggregate cyclomatic complexity: 0
+            Mean cyclomatic complexity: 0.00
+            Median cyclomatic complexity: 0.00
+            Conditional Statements: 0
+            Decision density: 0.00
+            Max loop depth: 0
+            Max conditional nesting depth: 0
+            Halstead unique operators: 7
+            Halstead unique operands: 22
+            Halstead operator occurrence: 24
+            Halstead operand occurrence: 26
+            Halstead program length: 50
+            Halstead program vocabulary: 29
+            Halstead program volume: 0.00
+            Halstead program difficulty: 0.00
+            Halstead program effort: 0.00
+            Halstead bug prediction: 0.00
+            SEI maintainability index: 0.00
+
+            CLASS IStaticAnalysisTool @ line 9
+                6 lines of CSharp code.
+                0 lines of comment.
+                0 methods.
+                Aggregate cyclomatic complexity: 0
+                Mean cyclomatic complexity: 0.00
+                Median cyclomatic complexity: 0.00
+                Conditional statements: 0
+                Decision density: 0.00
+                Max loop depth: 0
+                Max conditional nesting depth: 0
+                Halstead unique operators: 4
+                Halstead unique operands: 8
+                Halstead operator occurrence: 6
+                Halstead operand occurrence: 8
+                Halstead program length: 14
+                Halstead program vocabulary: 12
+                Halstead program volume: 50.19
+                Halstead program difficulty: 2.00
+                Halstead program effort: 100.38
+                Halstead bug prediction: 0.02
+                SEI maintainability index: no methods
+
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/PluginWrappers/CSharpMetric/CSharpMetrics.cs
+            137 lines of source.
+            126 lines of CSharp code.
+            2 lines of comment.
+            1 types.
+            8 methods.
+            Aggregate cyclomatic complexity: 18
+            Mean cyclomatic complexity: 2.25
+            Median cyclomatic complexity: 1.50
+            Conditional Statements: 11
+            Decision density: 0.15
+            Max loop depth: 2
+            Max loop depth position: @ line 104
+            Max conditional nesting depth: 4
+            Max conditional nesting depth position: @ line 70
+            Halstead unique operators: 22
+            Halstead unique operands: 111
+            Halstead operator occurrence: 280
+            Halstead operand occurrence: 289
+            Halstead program length: 569
+            Halstead program vocabulary: 133
+            Halstead program volume: 4014.46
+            Halstead program difficulty: 28.64
+            Halstead program effort: 114972.56
+            Halstead bug prediction: 1.34
+            SEI maintainability index: 104.11
+
+            CLASS CSharpMetrics @ line 10
+                118 lines of CSharp code.
+                2 lines of comment.
+                8 methods.
+                Aggregate cyclomatic complexity: 18
+                Mean cyclomatic complexity: 2.25
+                Median cyclomatic complexity: 1.50
+                Conditional statements: 11
+                Decision density: 0.15
+                Max loop depth: 2
+                Max loop depth position: @ line 104
+                Max conditional nesting depth: 4
+                Max conditional nesting depth position: @ line 70
+                Halstead unique operators: 21
+                Halstead unique operands: 96
+                Halstead operator occurrence: 259
+                Halstead operand occurrence: 268
+                Halstead program length: 527
+                Halstead program vocabulary: 117
+                Halstead program volume: 3620.68
+                Halstead program difficulty: 29.31
+                Halstead program effort: 106131.25
+                Halstead bug prediction: 1.21
+                SEI maintainability index: 105.17
+
+                METHOD CSharpMetricsconstructor @ line 20
+                    4 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.25
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 4
+                    Halstead unique operands: 5
+                    Halstead operator occurrence: 4
+                    Halstead operand occurrence: 6
+                    Halstead program length: 10
+                    Halstead program vocabulary: 9
+                    Halstead program volume: 31.70
+                    Halstead program difficulty: 2.40
+                    Halstead program effort: 76.08
+                    Halstead bug prediction: 0.01
+                    SEI maintainability index: 130.34
+                METHOD CheckFile @ line 56
+                    9 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 2
+                    Conditional statements: 1
+                    Decision density: 0.22
+                    Max loop depth: 0
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 59
+                    Halstead unique operators: 7
+                    Halstead unique operands: 11
+                    Halstead operator occurrence: 13
+                    Halstead operand occurrence: 15
+                    Halstead program length: 28
+                    Halstead program vocabulary: 18
+                    Halstead program volume: 116.76
+                    Halstead program difficulty: 4.77
+                    Halstead program effort: 557.25
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 110.19
+                METHOD ExecuteStaticAnalysisTool @ line 117
+                    7 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.14
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 11
+                    Halstead operator occurrence: 13
+                    Halstead operand occurrence: 16
+                    Halstead program length: 29
+                    Halstead program vocabulary: 18
+                    Halstead program volume: 120.93
+                    Halstead program difficulty: 5.09
+                    Halstead program effort: 615.63
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 114.31
+                METHOD GetFiles @ line 125
+                    6 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.17
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 9
+                    Halstead unique operands: 12
+                    Halstead operator occurrence: 20
+                    Halstead operand occurrence: 21
+                    Halstead program length: 41
+                    Halstead program vocabulary: 21
+                    Halstead program volume: 180.09
+                    Halstead program difficulty: 7.88
+                    Halstead program effort: 1418.17
+                    Halstead bug prediction: 0.06
+                    SEI maintainability index: 114.74
+                METHOD PrepareArgument @ line 131
+                    5 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.20
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 8
+                    Halstead operator occurrence: 8
+                    Halstead operand occurrence: 13
+                    Halstead program length: 21
+                    Halstead program vocabulary: 15
+                    Halstead program volume: 82.04
+                    Halstead program difficulty: 5.69
+                    Halstead program effort: 466.63
+                    Halstead bug prediction: 0.03
+                    SEI maintainability index: 121.78
+                METHOD PrepareInput @ line 24
+                    31 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 4
+                    Conditional statements: 4
+                    Decision density: 0.13
+                    Max loop depth: 1
+                    Max loop depth position:  @ line 43
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 31
+                    Halstead unique operators: 16
+                    Halstead unique operands: 36
+                    Halstead operator occurrence: 71
+                    Halstead operand occurrence: 63
+                    Halstead program length: 134
+                    Halstead program vocabulary: 52
+                    Halstead program volume: 763.86
+                    Halstead program difficulty: 14.00
+                    Halstead program effort: 10694.02
+                    Halstead bug prediction: 0.25
+                    SEI maintainability index: 79.93
+                METHOD ProcessOutput @ line 65
+                    29 lines of CSharp code.
+                    2 lines of comment.
+                    Cyclomatic complexity: 5
+                    Conditional statements: 4
+                    Decision density: 0.17
+                    Max loop depth: 2
+                    Max loop depth position:  @ line 77
+                    Max conditional nesting depth: 4
+                    Max conditional nesting depth position:  @ line 70
+                    Halstead unique operators: 14
+                    Halstead unique operands: 37
+                    Halstead operator occurrence: 74
+                    Halstead operand occurrence: 65
+                    Halstead program length: 139
+                    Halstead program vocabulary: 51
+                    Halstead program volume: 788.47
+                    Halstead program difficulty: 12.30
+                    Halstead program effort: 9696.01
+                    Halstead bug prediction: 0.26
+                    SEI maintainability index: 101.51
+                METHOD displayOutput @ line 98
+                    16 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 3
+                    Conditional statements: 2
+                    Decision density: 0.19
+                    Max loop depth: 2
+                    Max loop depth position:  @ line 104
+                    Max conditional nesting depth: 2
+                    Max conditional nesting depth position:  @ line 104
+                    Halstead unique operators: 10
+                    Halstead unique operands: 16
+                    Halstead operator occurrence: 39
+                    Halstead operand occurrence: 36
+                    Halstead program length: 75
+                    Halstead program vocabulary: 26
+                    Halstead program volume: 352.53
+                    Halstead program difficulty: 11.25
+                    Halstead program effort: 3966.00
+                    Halstead bug prediction: 0.12
+                    SEI maintainability index: 94.90
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/PluginWrappers/FxCop/FxCop.cs
+            85 lines of source.
+            82 lines of CSharp code.
+            0 lines of comment.
+            1 types.
+            7 methods.
+            Aggregate cyclomatic complexity: 11
+            Mean cyclomatic complexity: 1.57
+            Median cyclomatic complexity: 1.00
+            Conditional Statements: 4
+            Decision density: 0.15
+            Max loop depth: 0
+            Max conditional nesting depth: 1
+            Max conditional nesting depth position: @ line 60
+            Halstead unique operators: 16
+            Halstead unique operands: 81
+            Halstead operator occurrence: 161
+            Halstead operand occurrence: 185
+            Halstead program length: 346
+            Halstead program vocabulary: 97
+            Halstead program volume: 2283.57
+            Halstead program difficulty: 18.27
+            Halstead program effort: 41724.49
+            Halstead bug prediction: 0.76
+            SEI maintainability index: 104.12
+
+            CLASS FxCop @ line 12
+                72 lines of CSharp code.
+                0 lines of comment.
+                7 methods.
+                Aggregate cyclomatic complexity: 11
+                Mean cyclomatic complexity: 1.57
+                Median cyclomatic complexity: 1.00
+                Conditional statements: 4
+                Decision density: 0.15
+                Max loop depth: 0
+                Max conditional nesting depth: 1
+                Max conditional nesting depth position: @ line 60
+                Halstead unique operators: 15
+                Halstead unique operands: 60
+                Halstead operator occurrence: 133
+                Halstead operand occurrence: 156
+                Halstead program length: 289
+                Halstead program vocabulary: 75
+                Halstead program volume: 1800.13
+                Halstead program difficulty: 19.50
+                Halstead program effort: 35102.51
+                Halstead bug prediction: 0.60
+                SEI maintainability index: 106.22
+
+                METHOD CheckFile @ line 24
+                    9 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 2
+                    Conditional statements: 1
+                    Decision density: 0.22
+                    Max loop depth: 0
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 27
+                    Halstead unique operators: 7
+                    Halstead unique operands: 11
+                    Halstead operator occurrence: 13
+                    Halstead operand occurrence: 15
+                    Halstead program length: 28
+                    Halstead program vocabulary: 18
+                    Halstead program volume: 116.76
+                    Halstead program difficulty: 4.77
+                    Halstead program effort: 557.25
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 110.19
+                METHOD ExecuteStaticAnalysisTool @ line 66
+                    7 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.14
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 11
+                    Halstead operator occurrence: 13
+                    Halstead operand occurrence: 16
+                    Halstead program length: 29
+                    Halstead program vocabulary: 18
+                    Halstead program volume: 120.93
+                    Halstead program difficulty: 5.09
+                    Halstead program effort: 615.63
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 114.31
+                METHOD FxCopconstructor @ line 20
+                    4 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.25
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 4
+                    Halstead unique operands: 5
+                    Halstead operator occurrence: 4
+                    Halstead operand occurrence: 6
+                    Halstead program length: 10
+                    Halstead program vocabulary: 9
+                    Halstead program volume: 31.70
+                    Halstead program difficulty: 2.40
+                    Halstead program effort: 76.08
+                    Halstead bug prediction: 0.01
+                    SEI maintainability index: 130.34
+                METHOD GetFiles @ line 73
+                    6 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.17
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 11
+                    Halstead operator occurrence: 14
+                    Halstead operand occurrence: 17
+                    Halstead program length: 31
+                    Halstead program vocabulary: 18
+                    Halstead program volume: 129.27
+                    Halstead program difficulty: 5.41
+                    Halstead program effort: 699.22
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 116.46
+                METHOD PrepareArgument @ line 79
+                    5 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.20
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 10
+                    Halstead operator occurrence: 11
+                    Halstead operand occurrence: 16
+                    Halstead program length: 27
+                    Halstead program vocabulary: 17
+                    Halstead program volume: 110.36
+                    Halstead program difficulty: 5.60
+                    Halstead program effort: 618.02
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 120.24
+                METHOD PrepareInput @ line 33
+                    22 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 3
+                    Conditional statements: 2
+                    Decision density: 0.14
+                    Max loop depth: 0
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 40
+                    Halstead unique operators: 10
+                    Halstead unique operands: 27
+                    Halstead operator occurrence: 50
+                    Halstead operand occurrence: 46
+                    Halstead program length: 96
+                    Halstead program vocabulary: 37
+                    Halstead program volume: 500.11
+                    Halstead program difficulty: 8.52
+                    Halstead program effort: 4260.18
+                    Halstead bug prediction: 0.17
+                    SEI maintainability index: 87.92
+                METHOD ProcessOutput @ line 56
+                    9 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 2
+                    Conditional statements: 1
+                    Decision density: 0.22
+                    Max loop depth: 0
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 60
+                    Halstead unique operators: 8
+                    Halstead unique operands: 14
+                    Halstead operator occurrence: 19
+                    Halstead operand occurrence: 19
+                    Halstead program length: 38
+                    Halstead program vocabulary: 22
+                    Halstead program volume: 169.46
+                    Halstead program difficulty: 5.43
+                    Halstead program effort: 919.92
+                    Halstead bug prediction: 0.06
+                    SEI maintainability index: 108.26
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/PluginWrappers/FxCop/ParsingFxCop.cs
+            97 lines of source.
+            74 lines of CSharp code.
+            0 lines of comment.
+            1 types.
+            11 methods.
+            Aggregate cyclomatic complexity: 11
+            Mean cyclomatic complexity: 1.00
+            Median cyclomatic complexity: 1.00
+            Conditional Statements: 0
+            Decision density: 0.16
+            Max loop depth: 0
+            Max conditional nesting depth: 0
+            Halstead unique operators: 13
+            Halstead unique operands: 54
+            Halstead operator occurrence: 168
+            Halstead operand occurrence: 171
+            Halstead program length: 339
+            Halstead program vocabulary: 67
+            Halstead program volume: 2056.40
+            Halstead program difficulty: 20.58
+            Halstead program effort: 42327.65
+            Halstead bug prediction: 0.69
+            SEI maintainability index: 115.32
+
+            CLASS Parser @ line 11
+                67 lines of CSharp code.
+                0 lines of comment.
+                11 methods.
+                Aggregate cyclomatic complexity: 11
+                Mean cyclomatic complexity: 1.00
+                Median cyclomatic complexity: 1.00
+                Conditional statements: 0
+                Decision density: 0.16
+                Max loop depth: 0
+                Max conditional nesting depth: 0
+                Halstead unique operators: 11
+                Halstead unique operands: 37
+                Halstead operator occurrence: 146
+                Halstead operand occurrence: 148
+                Halstead program length: 294
+                Halstead program vocabulary: 48
+                Halstead program volume: 1641.98
+                Halstead program difficulty: 22.00
+                Halstead program effort: 36123.54
+                Halstead bug prediction: 0.55
+                SEI maintainability index: 116.93
+
+                METHOD GetAllIssues @ line 48
+                    7 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.14
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 8
+                    Halstead operator occurrence: 10
+                    Halstead operand occurrence: 12
+                    Halstead program length: 22
+                    Halstead program vocabulary: 15
+                    Halstead program volume: 85.95
+                    Halstead program difficulty: 5.25
+                    Halstead program effort: 451.25
+                    Halstead bug prediction: 0.03
+                    SEI maintainability index: 116.09
+                METHOD GetCriticalErrors @ line 57
+                    8 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.13
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 8
+                    Halstead operator occurrence: 11
+                    Halstead operand occurrence: 13
+                    Halstead program length: 24
+                    Halstead program vocabulary: 15
+                    Halstead program volume: 93.77
+                    Halstead program difficulty: 5.69
+                    Halstead program effort: 533.29
+                    Halstead bug prediction: 0.03
+                    SEI maintainability index: 113.47
+                METHOD GetCriticalWarnings @ line 77
+                    8 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.13
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 8
+                    Halstead operator occurrence: 11
+                    Halstead operand occurrence: 13
+                    Halstead program length: 24
+                    Halstead program vocabulary: 15
+                    Halstead program volume: 93.77
+                    Halstead program difficulty: 5.69
+                    Halstead program effort: 533.29
+                    Halstead bug prediction: 0.03
+                    SEI maintainability index: 113.47
+                METHOD GetErrors @ line 67
+                    8 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.13
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 8
+                    Halstead operator occurrence: 11
+                    Halstead operand occurrence: 13
+                    Halstead program length: 24
+                    Halstead program vocabulary: 15
+                    Halstead program volume: 93.77
+                    Halstead program difficulty: 5.69
+                    Halstead program effort: 533.29
+                    Halstead bug prediction: 0.03
+                    SEI maintainability index: 113.47
+                METHOD GetWarnings @ line 87
+                    8 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.13
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 8
+                    Halstead operator occurrence: 11
+                    Halstead operand occurrence: 13
+                    Halstead program length: 24
+                    Halstead program vocabulary: 15
+                    Halstead program volume: 93.77
+                    Halstead program difficulty: 5.69
+                    Halstead program effort: 533.29
+                    Halstead bug prediction: 0.03
+                    SEI maintainability index: 113.47
+                METHOD NumberOfCriticalErrors @ line 40
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 3
+                    Halstead unique operands: 3
+                    Halstead operator occurrence: 5
+                    Halstead operand occurrence: 4
+                    Halstead program length: 9
+                    Halstead program vocabulary: 6
+                    Halstead program volume: 23.26
+                    Halstead program difficulty: 2.00
+                    Halstead program effort: 46.53
+                    Halstead bug prediction: 0.01
+                    SEI maintainability index: 154.41
+                METHOD NumberOfCriticalWarnings @ line 44
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 3
+                    Halstead unique operands: 3
+                    Halstead operator occurrence: 5
+                    Halstead operand occurrence: 4
+                    Halstead program length: 9
+                    Halstead program vocabulary: 6
+                    Halstead program volume: 23.26
+                    Halstead program difficulty: 2.00
+                    Halstead program effort: 46.53
+                    Halstead bug prediction: 0.01
+                    SEI maintainability index: 154.41
+                METHOD NumberOfErrors @ line 42
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 3
+                    Halstead unique operands: 3
+                    Halstead operator occurrence: 5
+                    Halstead operand occurrence: 4
+                    Halstead program length: 9
+                    Halstead program vocabulary: 6
+                    Halstead program volume: 23.26
+                    Halstead program difficulty: 2.00
+                    Halstead program effort: 46.53
+                    Halstead bug prediction: 0.01
+                    SEI maintainability index: 154.41
+                METHOD NumberOfIssues @ line 38
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 3
+                    Halstead unique operands: 3
+                    Halstead operator occurrence: 5
+                    Halstead operand occurrence: 4
+                    Halstead program length: 9
+                    Halstead program vocabulary: 6
+                    Halstead program volume: 23.26
+                    Halstead program difficulty: 2.00
+                    Halstead program effort: 46.53
+                    Halstead bug prediction: 0.01
+                    SEI maintainability index: 154.41
+                METHOD NumberOfWarnings @ line 46
+                    1 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 1.00
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 3
+                    Halstead unique operands: 3
+                    Halstead operator occurrence: 5
+                    Halstead operand occurrence: 4
+                    Halstead program length: 9
+                    Halstead program vocabulary: 6
+                    Halstead program volume: 23.26
+                    Halstead program difficulty: 2.00
+                    Halstead program effort: 46.53
+                    Halstead bug prediction: 0.01
+                    SEI maintainability index: 154.41
+                METHOD Parserconstructor @ line 15
+                    19 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.05
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 6
+                    Halstead unique operands: 30
+                    Halstead operator occurrence: 65
+                    Halstead operand occurrence: 63
+                    Halstead program length: 128
+                    Halstead program vocabulary: 36
+                    Halstead program volume: 661.75
+                    Halstead program difficulty: 6.30
+                    Halstead program effort: 4169.03
+                    Halstead bug prediction: 0.22
+                    SEI maintainability index: 89.30
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/PluginWrappers/NDeped/Ndepend.cs
+            92 lines of source.
+            86 lines of CSharp code.
+            0 lines of comment.
+            1 types.
+            7 methods.
+            Aggregate cyclomatic complexity: 10
+            Mean cyclomatic complexity: 1.43
+            Median cyclomatic complexity: 1.00
+            Conditional Statements: 3
+            Decision density: 0.13
+            Max loop depth: 0
+            Max conditional nesting depth: 1
+            Max conditional nesting depth position: @ line 62
+            Halstead unique operators: 14
+            Halstead unique operands: 89
+            Halstead operator occurrence: 174
+            Halstead operand occurrence: 202
+            Halstead program length: 376
+            Halstead program vocabulary: 103
+            Halstead program volume: 2514.12
+            Halstead program difficulty: 15.89
+            Halstead program effort: 39943.50
+            Halstead bug prediction: 0.84
+            SEI maintainability index: 102.70
+
+            CLASS Ndepend @ line 12
+                76 lines of CSharp code.
+                0 lines of comment.
+                7 methods.
+                Aggregate cyclomatic complexity: 10
+                Mean cyclomatic complexity: 1.43
+                Median cyclomatic complexity: 1.00
+                Conditional statements: 3
+                Decision density: 0.13
+                Max loop depth: 0
+                Max conditional nesting depth: 1
+                Max conditional nesting depth position: @ line 62
+                Halstead unique operators: 13
+                Halstead unique operands: 68
+                Halstead operator occurrence: 146
+                Halstead operand occurrence: 173
+                Halstead program length: 319
+                Halstead program vocabulary: 81
+                Halstead program volume: 2022.41
+                Halstead program difficulty: 16.54
+                Halstead program effort: 33444.15
+                Halstead bug prediction: 0.67
+                SEI maintainability index: 104.70
+
+                METHOD CheckFile @ line 48
+                    9 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 2
+                    Conditional statements: 1
+                    Decision density: 0.22
+                    Max loop depth: 0
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 51
+                    Halstead unique operators: 7
+                    Halstead unique operands: 11
+                    Halstead operator occurrence: 13
+                    Halstead operand occurrence: 15
+                    Halstead program length: 28
+                    Halstead program vocabulary: 18
+                    Halstead program volume: 116.76
+                    Halstead program difficulty: 4.77
+                    Halstead program effort: 557.25
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 110.19
+                METHOD ExecuteStaticAnalysisTool @ line 72
+                    7 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.14
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 11
+                    Halstead operator occurrence: 13
+                    Halstead operand occurrence: 16
+                    Halstead program length: 29
+                    Halstead program vocabulary: 18
+                    Halstead program volume: 120.93
+                    Halstead program difficulty: 5.09
+                    Halstead program effort: 615.63
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 114.31
+                METHOD GetFiles @ line 79
+                    6 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.17
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 11
+                    Halstead operator occurrence: 14
+                    Halstead operand occurrence: 17
+                    Halstead program length: 31
+                    Halstead program vocabulary: 18
+                    Halstead program volume: 129.27
+                    Halstead program difficulty: 5.41
+                    Halstead program effort: 699.22
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 116.46
+                METHOD Ndependconstructor @ line 20
+                    4 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.25
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 4
+                    Halstead unique operands: 5
+                    Halstead operator occurrence: 4
+                    Halstead operand occurrence: 6
+                    Halstead program length: 10
+                    Halstead program vocabulary: 9
+                    Halstead program volume: 31.70
+                    Halstead program difficulty: 2.40
+                    Halstead program effort: 76.08
+                    Halstead bug prediction: 0.01
+                    SEI maintainability index: 130.34
+                METHOD PrepareArgument @ line 85
+                    5 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.20
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 7
+                    Halstead unique operands: 8
+                    Halstead operator occurrence: 9
+                    Halstead operand occurrence: 14
+                    Halstead program length: 23
+                    Halstead program vocabulary: 15
+                    Halstead program volume: 89.86
+                    Halstead program difficulty: 6.13
+                    Halstead program effort: 550.38
+                    Halstead bug prediction: 0.03
+                    SEI maintainability index: 121.31
+                METHOD PrepareInput @ line 24
+                    21 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 2
+                    Conditional statements: 1
+                    Decision density: 0.10
+                    Max loop depth: 0
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 38
+                    Halstead unique operators: 9
+                    Halstead unique operands: 30
+                    Halstead operator occurrence: 52
+                    Halstead operand occurrence: 52
+                    Halstead program length: 104
+                    Halstead program vocabulary: 39
+                    Halstead program volume: 549.68
+                    Halstead program difficulty: 7.80
+                    Halstead program effort: 4287.52
+                    Halstead bug prediction: 0.18
+                    SEI maintainability index: 88.41
+                METHOD ProcessOutput @ line 57
+                    14 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 2
+                    Conditional statements: 1
+                    Decision density: 0.14
+                    Max loop depth: 0
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 62
+                    Halstead unique operators: 8
+                    Halstead unique operands: 19
+                    Halstead operator occurrence: 32
+                    Halstead operand occurrence: 32
+                    Halstead program length: 64
+                    Halstead program vocabulary: 27
+                    Halstead program volume: 304.31
+                    Halstead program difficulty: 6.74
+                    Halstead program effort: 2050.11
+                    Halstead bug prediction: 0.10
+                    SEI maintainability index: 98.05
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/PluginWrappers/NDeped/ParsingXmlNDepend.cs
+            81 lines of source.
+            65 lines of CSharp code.
+            8 lines of comment.
+            1 types.
+            1 methods.
+            Aggregate cyclomatic complexity: 16
+            Mean cyclomatic complexity: 16.00
+            Median cyclomatic complexity: 16.00
+            Conditional Statements: 15
+            Decision density: 0.29
+            Max loop depth: 2
+            Max loop depth position: @ line 23
+            Max conditional nesting depth: 5
+            Max conditional nesting depth position: @ line 23
+            Halstead unique operators: 25
+            Halstead unique operands: 61
+            Halstead operator occurrence: 149
+            Halstead operand occurrence: 122
+            Halstead program length: 271
+            Halstead program vocabulary: 86
+            Halstead program volume: 1741.52
+            Halstead program difficulty: 25.00
+            Halstead program effort: 43537.94
+            Halstead bug prediction: 0.58
+            SEI maintainability index: 91.52
+
+            CLASS ParsingXmlNDepend @ line 12
+                56 lines of CSharp code.
+                8 lines of comment.
+                1 methods.
+                Aggregate cyclomatic complexity: 16
+                Mean cyclomatic complexity: 16.00
+                Median cyclomatic complexity: 16.00
+                Conditional statements: 15
+                Decision density: 0.29
+                Max loop depth: 2
+                Max loop depth position: @ line 23
+                Max conditional nesting depth: 5
+                Max conditional nesting depth position: @ line 23
+                Halstead unique operators: 23
+                Halstead unique operands: 44
+                Halstead operator occurrence: 125
+                Halstead operand occurrence: 98
+                Halstead program length: 223
+                Halstead program vocabulary: 67
+                Halstead program volume: 1352.74
+                Halstead program difficulty: 25.61
+                Halstead program effort: 34648.54
+                Halstead bug prediction: 0.45
+                SEI maintainability index: 93.94
+
+                METHOD ShowingResultsAfterParsingNDependXml @ line 14
+                    52 lines of CSharp code.
+                    8 lines of comment.
+                    Cyclomatic complexity: 16
+                    Conditional statements: 15
+                    Decision density: 0.31
+                    Max loop depth: 2
+                    Max loop depth position:  @ line 23
+                    Max conditional nesting depth: 5
+                    Max conditional nesting depth position:  @ line 23
+                    Halstead unique operators: 22
+                    Halstead unique operands: 42
+                    Halstead operator occurrence: 123
+                    Halstead operand occurrence: 96
+                    Halstead program length: 219
+                    Halstead program vocabulary: 64
+                    Halstead program volume: 1314.00
+                    Halstead program difficulty: 25.14
+                    Halstead program effort: 33037.71
+                    Halstead bug prediction: 0.44
+                    SEI maintainability index: 95.14
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/Program.cs
+            71 lines of source.
+            65 lines of CSharp code.
+            0 lines of comment.
+            1 types.
+            4 methods.
+            Aggregate cyclomatic complexity: 10
+            Mean cyclomatic complexity: 2.50
+            Median cyclomatic complexity: 2.00
+            Conditional Statements: 6
+            Decision density: 0.18
+            Max loop depth: 0
+            Max conditional nesting depth: 3
+            Max conditional nesting depth position: @ line 44
+            Halstead unique operators: 17
+            Halstead unique operands: 62
+            Halstead operator occurrence: 129
+            Halstead operand occurrence: 125
+            Halstead program length: 254
+            Halstead program vocabulary: 79
+            Halstead program volume: 1601.16
+            Halstead program difficulty: 17.14
+            Halstead program effort: 27439.24
+            Halstead bug prediction: 0.53
+            SEI maintainability index: 97.01
+
+            CLASS Program @ line 12
+                55 lines of CSharp code.
+                0 lines of comment.
+                4 methods.
+                Aggregate cyclomatic complexity: 10
+                Mean cyclomatic complexity: 2.50
+                Median cyclomatic complexity: 2.00
+                Conditional statements: 6
+                Decision density: 0.18
+                Max loop depth: 0
+                Max conditional nesting depth: 3
+                Max conditional nesting depth position: @ line 44
+                Halstead unique operators: 15
+                Halstead unique operands: 45
+                Halstead operator occurrence: 102
+                Halstead operand occurrence: 98
+                Halstead program length: 200
+                Halstead program vocabulary: 60
+                Halstead program volume: 1181.38
+                Halstead program difficulty: 16.33
+                Halstead program effort: 19295.84
+                Halstead bug prediction: 0.39
+                SEI maintainability index: 99.71
+
+                METHOD CheckDirectory @ line 25
+                    9 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 2
+                    Conditional statements: 1
+                    Decision density: 0.22
+                    Max loop depth: 0
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 28
+                    Halstead unique operators: 7
+                    Halstead unique operands: 11
+                    Halstead operator occurrence: 13
+                    Halstead operand occurrence: 15
+                    Halstead program length: 28
+                    Halstead program vocabulary: 18
+                    Halstead program volume: 116.76
+                    Halstead program difficulty: 4.77
+                    Halstead program effort: 557.25
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 110.19
+                METHOD CheckFile @ line 16
+                    9 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 2
+                    Conditional statements: 1
+                    Decision density: 0.22
+                    Max loop depth: 0
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 19
+                    Halstead unique operators: 7
+                    Halstead unique operands: 11
+                    Halstead operator occurrence: 13
+                    Halstead operand occurrence: 15
+                    Halstead program length: 28
+                    Halstead program vocabulary: 18
+                    Halstead program volume: 116.76
+                    Halstead program difficulty: 4.77
+                    Halstead program effort: 557.25
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 110.19
+                METHOD LoadConfiguration @ line 64
+                    6 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.17
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 9
+                    Halstead unique operands: 10
+                    Halstead operator occurrence: 13
+                    Halstead operand occurrence: 16
+                    Halstead program length: 29
+                    Halstead program vocabulary: 19
+                    Halstead program volume: 123.19
+                    Halstead program difficulty: 7.20
+                    Halstead program effort: 886.97
+                    Halstead bug prediction: 0.04
+                    SEI maintainability index: 116.71
+                METHOD Main @ line 34
+                    26 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 5
+                    Conditional statements: 4
+                    Decision density: 0.19
+                    Max loop depth: 0
+                    Max conditional nesting depth: 3
+                    Max conditional nesting depth position:  @ line 44
+                    Halstead unique operators: 12
+                    Halstead unique operands: 28
+                    Halstead operator occurrence: 59
+                    Halstead operand occurrence: 46
+                    Halstead program length: 105
+                    Halstead program vocabulary: 40
+                    Halstead program volume: 558.80
+                    Halstead program difficulty: 9.86
+                    Halstead program effort: 5508.20
+                    Halstead bug prediction: 0.19
+                    SEI maintainability index: 84.17
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/Properties/AssemblyInfo.cs
+            36 lines of source.
+            15 lines of CSharp code.
+            17 lines of comment.
+            0 types.
+            0 methods.
+            Aggregate cyclomatic complexity: 0
+            Mean cyclomatic complexity: 0.00
+            Median cyclomatic complexity: 0.00
+            Conditional Statements: 0
+            Decision density: 0.00
+            Max loop depth: 0
+            Max conditional nesting depth: 0
+            Halstead unique operators: 6
+            Halstead unique operands: 29
+            Halstead operator occurrence: 47
+            Halstead operand occurrence: 49
+            Halstead program length: 96
+            Halstead program vocabulary: 35
+            Halstead program volume: 0.00
+            Halstead program difficulty: 0.00
+            Halstead program effort: 0.00
+            Halstead bug prediction: 0.00
+            SEI maintainability index: 0.00
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/StaticAnalyzer/StaticAnalysis.cs
+            70 lines of source.
+            62 lines of CSharp code.
+            1 lines of comment.
+            1 types.
+            3 methods.
+            Aggregate cyclomatic complexity: 8
+            Mean cyclomatic complexity: 2.67
+            Median cyclomatic complexity: 3.00
+            Conditional Statements: 6
+            Decision density: 0.15
+            Max loop depth: 1
+            Max loop depth position: @ line 57
+            Max conditional nesting depth: 3
+            Max conditional nesting depth position: @ line 22
+            Halstead unique operators: 25
+            Halstead unique operands: 63
+            Halstead operator occurrence: 138
+            Halstead operand occurrence: 115
+            Halstead program length: 253
+            Halstead program vocabulary: 88
+            Halstead program volume: 1634.24
+            Halstead program difficulty: 22.82
+            Halstead program effort: 37289.12
+            Halstead bug prediction: 0.54
+            SEI maintainability index: 100.07
+
+            CLASS StaticAnalysisApplication @ line 10
+                54 lines of CSharp code.
+                1 lines of comment.
+                3 methods.
+                Aggregate cyclomatic complexity: 8
+                Mean cyclomatic complexity: 2.67
+                Median cyclomatic complexity: 3.00
+                Conditional statements: 6
+                Decision density: 0.15
+                Max loop depth: 1
+                Max loop depth position: @ line 57
+                Max conditional nesting depth: 3
+                Max conditional nesting depth position: @ line 22
+                Halstead unique operators: 23
+                Halstead unique operands: 47
+                Halstead operator occurrence: 117
+                Halstead operand occurrence: 94
+                Halstead program length: 211
+                Halstead program vocabulary: 70
+                Halstead program volume: 1293.28
+                Halstead program difficulty: 23.00
+                Halstead program effort: 29745.41
+                Halstead bug prediction: 0.43
+                SEI maintainability index: 102.31
+
+                METHOD IntializeToolsList @ line 18
+                    28 lines of CSharp code.
+                    1 lines of comment.
+                    Cyclomatic complexity: 4
+                    Conditional statements: 3
+                    Decision density: 0.14
+                    Max loop depth: 1
+                    Max loop depth position:  @ line 22
+                    Max conditional nesting depth: 3
+                    Max conditional nesting depth position:  @ line 22
+                    Halstead unique operators: 19
+                    Halstead unique operands: 35
+                    Halstead operator occurrence: 83
+                    Halstead operand occurrence: 63
+                    Halstead program length: 146
+                    Halstead program vocabulary: 54
+                    Halstead program volume: 840.21
+                    Halstead program difficulty: 17.10
+                    Halstead program effort: 14367.65
+                    Halstead bug prediction: 0.28
+                    SEI maintainability index: 96.68
+                METHOD Run @ line 52
+                    17 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 3
+                    Conditional statements: 3
+                    Decision density: 0.18
+                    Max loop depth: 1
+                    Max loop depth position:  @ line 57
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 55
+                    Halstead unique operators: 11
+                    Halstead unique operands: 12
+                    Halstead operator occurrence: 24
+                    Halstead operand occurrence: 18
+                    Halstead program length: 42
+                    Halstead program vocabulary: 23
+                    Halstead program volume: 189.99
+                    Halstead program difficulty: 8.25
+                    Halstead program effort: 1567.41
+                    Halstead bug prediction: 0.06
+                    SEI maintainability index: 97.13
+                METHOD StaticAnalysisApplicationconstructor @ line 13
+                    4 lines of CSharp code.
+                    0 lines of comment.
+                    Cyclomatic complexity: 1
+                    Conditional statements: 0
+                    Decision density: 0.25
+                    Max loop depth: 0
+                    Max conditional nesting depth: 0
+                    Halstead unique operators: 5
+                    Halstead unique operands: 7
+                    Halstead operator occurrence: 6
+                    Halstead operand occurrence: 8
+                    Halstead program length: 14
+                    Halstead program vocabulary: 12
+                    Halstead program volume: 50.19
+                    Halstead program difficulty: 2.86
+                    Halstead program effort: 143.40
+                    Halstead bug prediction: 0.02
+                    SEI maintainability index: 127.95
+
+
+        FILE C:/Users/320050767/Source/Repos/G7CaseStudy13/StaticAnalyzer/Test/TestClass.cs
+            69 lines of source.
+            53 lines of CSharp code.
+            10 lines of comment.
+            1 types.
+            1 methods.
+            Aggregate cyclomatic complexity: 5
+            Mean cyclomatic complexity: 5.00
+            Median cyclomatic complexity: 5.00
+            Conditional Statements: 4
+            Decision density: 0.11
+            Max loop depth: 0
+            Max conditional nesting depth: 1
+            Max conditional nesting depth position: @ line 29
+            Halstead unique operators: 11
+            Halstead unique operands: 43
+            Halstead operator occurrence: 93
+            Halstead operand occurrence: 78
+            Halstead program length: 171
+            Halstead program vocabulary: 54
+            Halstead program volume: 984.09
+            Halstead program difficulty: 9.98
+            Halstead program effort: 9817.97
+            Halstead bug prediction: 0.33
+            SEI maintainability index: 106.46
+
+            CLASS TestClass @ line 9
+                45 lines of CSharp code.
+                10 lines of comment.
+                1 methods.
+                Aggregate cyclomatic complexity: 5
+                Mean cyclomatic complexity: 5.00
+                Median cyclomatic complexity: 5.00
+                Conditional statements: 4
+                Decision density: 0.11
+                Max loop depth: 0
+                Max conditional nesting depth: 1
+                Max conditional nesting depth position: @ line 29
+                Halstead unique operators: 9
+                Halstead unique operands: 28
+                Halstead operator occurrence: 73
+                Halstead operand occurrence: 59
+                Halstead program length: 132
+                Halstead program vocabulary: 37
+                Halstead program volume: 687.65
+                Halstead program difficulty: 9.48
+                Halstead program effort: 6520.38
+                Halstead bug prediction: 0.23
+                SEI maintainability index: 109.11
+
+                METHOD Main @ line 11
+                    41 lines of CSharp code.
+                    10 lines of comment.
+                    Cyclomatic complexity: 5
+                    Conditional statements: 4
+                    Decision density: 0.12
+                    Max loop depth: 0
+                    Max conditional nesting depth: 1
+                    Max conditional nesting depth position:  @ line 29
+                    Halstead unique operators: 8
+                    Halstead unique operands: 27
+                    Halstead operator occurrence: 71
+                    Halstead operand occurrence: 58
+                    Halstead program length: 129
+                    Halstead program vocabulary: 35
+                    Halstead program volume: 661.68
+                    Halstead program difficulty: 8.59
+                    Halstead program effort: 5685.53
+                    Halstead bug prediction: 0.22
+                    SEI maintainability index: 110.62
+
+
+******************** End Metrics *************************

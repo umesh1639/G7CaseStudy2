@@ -1,0 +1,10 @@
+﻿<Application x:Class="wpf_FirstApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:wpf_FirstApp"
+             xmlns:entity="clr-namespace:wpf_FirstApp.Entties"
+             StartupUri="Window1.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

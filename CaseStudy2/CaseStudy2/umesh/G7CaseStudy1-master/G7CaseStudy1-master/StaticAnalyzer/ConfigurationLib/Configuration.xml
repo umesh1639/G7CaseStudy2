@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <installedPlugins>
+    <!--plugin name="FxCop" installationPath="C:\Program Files (x86)\Microsoft Fxcop 10.0\FxCopCmd.exe	" wrapperClassName="FxCop"/-->
+    <plugin name="NDepend" installationPath="C:\Users\320050767\Downloads\NDepend_2019.2.6.9270\NDepend.Console.exe" wrapperClassName="Ndepend" namespace="NDependLib" assembly="C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\NDependLib\bin\Debug\NDependLib.dll"/>
+    <!-->plugin name="CSharpMetrics" installationPath="C:\Program Files (x86)\SemanticDesigns\DMS\Executables\DMSSoftwareMetrics.cmd" wrapperClassName="CSharpMetrics" namespace=""-->
+  </installedPlugins>
+</configuration>

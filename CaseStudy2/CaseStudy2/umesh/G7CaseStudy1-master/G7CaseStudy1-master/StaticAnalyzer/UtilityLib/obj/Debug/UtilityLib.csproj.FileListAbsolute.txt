@@ -1,0 +1,4 @@
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UtilityLib\bin\Debug\UtilityLib.dll
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UtilityLib\bin\Debug\UtilityLib.pdb
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UtilityLib\obj\Debug\UtilityLib.dll
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\UtilityLib\obj\Debug\UtilityLib.pdb

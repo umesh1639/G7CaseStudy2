@@ -1,0 +1,19 @@
+﻿<Window x:Class="DataBindind_Basics.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataBindind_Basics"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+
+        <Slider HorizontalAlignment="Left" Margin="65,31,0,0" VerticalAlignment="Top" Height="46" Width="515" TickPlacement="TopLeft" TickFrequency="1" Maximum="50" Minimum="0" Value="20" Background="Black" Foreground="White" Name="slider1"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="65,111,0,0" TextWrapping="Wrap" FontSize="24" VerticalAlignment="Top" Height="52" Width="515" Background="Black" Foreground="White" Name="txtBlock1" 
+                   Text="{Binding ElementName=slider1, Path=Value, Mode=TwoWay}" />
+
+        <TextBox HorizontalAlignment="Left" Height="43" Margin="66,190,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="514" Name="txtData" FontSize="24" Background="Black" Foreground="White" Text="{Binding ElementName=txtBlock1, Path=Text, UpdateSourceTrigger=PropertyChanged}"/>
+
+    </Grid>
+</Window>

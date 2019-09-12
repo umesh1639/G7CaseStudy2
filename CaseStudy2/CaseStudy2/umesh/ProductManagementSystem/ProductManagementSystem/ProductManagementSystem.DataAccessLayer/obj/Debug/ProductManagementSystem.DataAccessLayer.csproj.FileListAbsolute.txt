@@ -1,0 +1,11 @@
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.DataAccessLayer\bin\Debug\ProductManagementSystem.DataAccessLayer.dll
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.DataAccessLayer\bin\Debug\ProductManagementSystem.DataAccessLayer.pdb
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.DataAccessLayer\bin\Debug\ProductManagementSystem.Entities.dll
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.DataAccessLayer\bin\Debug\ProductManagementSystem.Repository.dll
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.DataAccessLayer\bin\Debug\ProductManagementSystem.Entities.pdb
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.DataAccessLayer\bin\Debug\ProductManagementSystem.Repository.pdb
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.DataAccessLayer\obj\Debug\ProductManagementSystem.DataAccessLayer.csprojAssemblyReference.cache
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.DataAccessLayer\obj\Debug\ProductManagementSystem.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.DataAccessLayer\obj\Debug\ProductManagementSystem.DataAccessLayer.csproj.CopyComplete
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.DataAccessLayer\obj\Debug\ProductManagementSystem.DataAccessLayer.dll
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.DataAccessLayer\obj\Debug\ProductManagementSystem.DataAccessLayer.pdb

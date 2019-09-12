@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Multiple File Upload with HTML5, Ajax and Web API</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <form action="">
+        Select Your Files:
+        <input type="file" id="file" name="file" multiple />
+        <input id="btUpload" type="button" value="Upload File" />
+        <p></p>
+    </form>
+
+</body>
+
+<script>
+    $(document).ready(function () {
+        $("#btUpload").click(function () {
+
+            var data = new FormData($('form')[0]);
+
+            $.ajax({
+                type: "POST",
+                url: '/api/FileUpload/',    // CALL WEB API TO SAVE THE FILES.
+                enctype: 'multipart/form-data',
+                contentType: false,
+                processData: false,         // PREVENT AUTOMATIC DATA PROCESSING.
+                cache: false,
+                data: data, 		        // DATA OR FILES IN THIS CONTEXT.
+                success: function (data, textStatus, xhr) {
+                    $('p').text(data);
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert(textStatus + ': ' + errorThrown);
+                }
+            });
+        });
+    });
+</script>
+</html>

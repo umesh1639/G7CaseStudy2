@@ -1,0 +1,6 @@
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.Entities\bin\Debug\ProductManagementSystem.Entities.dll
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.Entities\bin\Debug\ProductManagementSystem.Entities.pdb
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\ProductManagementSystem.Entities.csprojAssemblyReference.cache
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\ProductManagementSystem.Entities.csproj.CoreCompileInputs.cache
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\ProductManagementSystem.Entities.dll
+D:\Philips\Day-3\ProductManagementSystem\ProductManagementSystem.Entities\obj\Debug\ProductManagementSystem.Entities.pdb

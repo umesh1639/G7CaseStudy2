@@ -1,0 +1,5 @@
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\ToolsMetaLib\bin\Debug\ToolsMetaLib.dll
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\ToolsMetaLib\bin\Debug\ToolsMetaLib.pdb
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\ToolsMetaLib\obj\Debug\ToolsMetaLib.csprojResolveAssemblyReference.cache
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\ToolsMetaLib\obj\Debug\ToolsMetaLib.dll
+C:\Users\320050767\Source\Repos\G7CaseStudy13\StaticAnalyzer\ToolsMetaLib\obj\Debug\ToolsMetaLib.pdb

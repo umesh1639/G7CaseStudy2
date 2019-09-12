@@ -1,0 +1,17 @@
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\bin\Debug\DataBindind_Basics.exe.config
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\bin\Debug\DataBindind_Basics.exe
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\bin\Debug\DataBindind_Basics.pdb
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\MainWindow.g.cs
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\App.g.cs
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\DataBindind_Basics_MarkupCompile.cache
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\DataBindind_Basics_MarkupCompile.lref
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\MainWindow.baml
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\DataBindind_Basics.g.resources
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\DataBindind_Basics.Properties.Resources.resources
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\DataBindind_Basics.csproj.GenerateResource.cache
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\DataBindind_Basics.csproj.CoreCompileInputs.cache
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\DataBindind_Basics.exe
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\DataBindind_Basics.pdb
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\Window1.g.cs
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\Window1.baml
+D:\Philips\Day-2\DataBindindDemo\DataBindind_Basics\obj\Debug\DataBindind_Basics.csprojAssemblyReference.cache

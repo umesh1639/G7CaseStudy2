@@ -1,0 +1,21 @@
+﻿<Window x:Class="wpf_FirstApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_FirstApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Button Margin="200,108,199.6,137"   Click="Button_Click">
+            <Border CornerRadius="10" BorderThickness="5" BorderBrush="Black">
+                <StackPanel>
+                    <TextBlock Name="txtBlock1" Text="TextBlock control inside button" />
+                    <Button Name="btnInner" Content="Inner button"/>
+                </StackPanel>
+            </Border>
+        </Button>
+
+    </Grid>
+</Window>
